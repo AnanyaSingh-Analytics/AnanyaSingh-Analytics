@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 
-- **Excel**: Pivot Tables, Power Query, Dashboards  
+- **Excel**: Pivot Tables, Power Query, Advanced Functions  
 - **SQL**: Data cleaning, joins, aggregations, window functions  
 - **Power BI**: Interactive dashboards, DAX, data modeling  
 - **Python (Learning)**: pandas, numpy, Advanced stats
