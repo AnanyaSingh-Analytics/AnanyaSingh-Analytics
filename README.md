@@ -3,7 +3,7 @@
 🎯 Data Analyst with a passion for making data-driven decisions  
 📚 Currently learning: Python and Statistics  
 📊 Tools I use: Advanced Excel | SQL | Power BI | Python | Statistics 
-🧠 Interested in: Consumer Insights | Agriculture Tech | Public Data Projects  
+🧠 Interested in: Consumer Insights | Market Analytics | Supply Chain Optimization |ROI Measurement | Product Performance Analysis | Agriculture Tech | Public Data Projects  
 
 ## 🛠 Skills
 
