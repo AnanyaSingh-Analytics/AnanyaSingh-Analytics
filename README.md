@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ananya Singh!
 
-🎯 Aspiring Data Analyst with a passion for making data-driven decisions  
+🎯 Data Analyst with a passion for making data-driven decisions  
 📚 Currently learning: Python and Statistics  
 📊 Tools I use: Advanced Excel | SQL | Power BI | Python | Statistics 
 🧠 Interested in: Consumer Insights | Agriculture Tech | Public Data Projects  
